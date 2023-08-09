@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/naga-vijay-kumar/argocd-demo.git
+    repoURL: git@github.com:naga-vijay-kumar/argocd-demo.git
     targetRevision: HEAD
     path: dev
   destination: 
